@@ -1,0 +1,8 @@
+#Latest licence for this subscription available at https://subscriptions.arcmutate.com/990148fa-098e-48cf-b4c5-0365bcc3c620/arcmutate-licence.txt
+#Wed Oct 23 15:27:28 UTC 2024
+expires=22/11/2024
+signature=IgJlKcvFtRFyShwAyqXiPu0KkHwv6a/uQO1am2yZU0n8p8mjcjSoTtPxwdwbe5wrRj/A+as0NPEOr+EDCO9bGkNWEJ/cwgODCfo+5+9i5oXu0uviQdRYoZYcJF6iqXr9Yswv1S3M03bTKWUx/ep8U7ingaiueI1sa9gcJt8mrEg\=
+packages=jasondecarvalho.snapshot.testing.*
+type=EVALUATION
+users=1
+keyVersion=1
